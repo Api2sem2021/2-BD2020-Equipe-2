@@ -215,24 +215,24 @@ Estamos utilizando em nosso projeto um sistema onde evitará possíveis erros de
 - Página de cadastro de funcionário
 
 <div align="left">
-    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/6fd3131a915b0d43dd45be3448b05a6f/i2__1_.png" width="320" />
-    <div height="50"></div>
+    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/6fd3131a915b0d43dd45be3448b05a6f/i2__1_.png" width="640" />
+    <div height="480"></div>
 </div>
 
 
 - Página de cadastro de projeto
 
 <div align="left">
-    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/3beb42bc75acf3846c1111ff7d7c0b3f/33.png" width="320" />
-    <div height="50"></div>
+    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/3beb42bc75acf3846c1111ff7d7c0b3f/33.png" width="640" />
+    <div height="480"></div>
 </div>
 
 
 - Página de cadastro de tarefas
 
-<div align="left">
-    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/2eb72a4ed7c0624418199df9f7fb8791/i4.png" width="320" />
-    <div height="50"></div>
+<div align="left" margin-left=5%>
+    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/2eb72a4ed7c0624418199df9f7fb8791/i4.png" width="640" />
+    <div height="480"></div>
 </div>
 
 
