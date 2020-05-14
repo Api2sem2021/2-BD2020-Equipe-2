@@ -207,8 +207,8 @@ Estamos utilizando em nosso projeto um sistema onde evitará possíveis erros de
 - Página principal
 
 <div align="left">
-    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/921a6c0031ade772b75c86b643c34502/i1__1_.png" width="320" />
-    <div height="50"></div>
+    <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/921a6c0031ade772b75c86b643c34502/i1__1_.png" width="640" />
+    <div height="480"></div>
 </div>
 
 
