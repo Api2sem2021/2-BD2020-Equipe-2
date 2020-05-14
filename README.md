@@ -230,7 +230,7 @@ Estamos utilizando em nosso projeto um sistema onde evitará possíveis erros de
 
 - Página de cadastro de tarefas
 
-<div align="left" margin-rigth=5%>
+<div align="left">
     <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/2eb72a4ed7c0624418199df9f7fb8791/i4.png" width="640" />
     <div height="480"></div>
 </div>
