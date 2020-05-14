@@ -206,7 +206,7 @@ Estamos utilizando em nosso projeto um sistema onde evitará possíveis erros de
 ### Principais páginas
 - Página principal
 
-div align="left">
+<div align="left">
     <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/921a6c0031ade772b75c86b643c34502/i1__1_.png" width="320" />
     <div height="50"></div>
 </div>
@@ -214,7 +214,7 @@ div align="left">
 
 - Página de cadastro de funcionário
 
-div align="left">
+<div align="left">
     <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/6fd3131a915b0d43dd45be3448b05a6f/i2__1_.png" width="320" />
     <div height="50"></div>
 </div>
@@ -222,7 +222,7 @@ div align="left">
 
 - Página de cadastro de projeto
 
-div align="left">
+<div align="left">
     <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/3beb42bc75acf3846c1111ff7d7c0b3f/33.png" width="320" />
     <div height="50"></div>
 </div>
@@ -230,7 +230,7 @@ div align="left">
 
 - Página de cadastro de tarefas
 
-div align="left">
+<div align="left">
     <img src="https://gitlab.com/perilojunior68/visao-estrategica-de-projeto/-/wikis/uploads/2eb72a4ed7c0624418199df9f7fb8791/i4.png" width="320" />
     <div height="50"></div>
 </div>
