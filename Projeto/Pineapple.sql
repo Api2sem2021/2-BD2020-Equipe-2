@@ -4,23 +4,23 @@ use pineapple;
 
 create table Projeto (
 	nome_projeto varchar(50) not null,
-    data_inicio TIMESTAMP not null DEFAULT CURRENT_TIMESTAMP,
-    data_termino datetime,
+    data_inicio varchar(25),
+    data_termino varchar(25),
     primary key(nome_projeto, data_inicio)
 );
 
 create table Tarefa (
 	nome_tarefa varchar(50)  not null,
-    data_inicio TIMESTAMP not null DEFAULT CURRENT_TIMESTAMP,
-    data_termino datetime,
-    primary key (nome_tarefa, data_inicio)
+    data_inicio varchar(25),
+    data_termino varchar(25),
+    primary key (nome_tarefa)
 );
 
 create table Recurso (
 	cpf varchar(12)  not null,
 	nome_recurso varchar(100),
     email varchar(50),
-    primary key (cpf, nome_recurso)
+    primary key (cpf)
 );
 
 create table Rel_Tarefa_Recurso (
@@ -63,8 +63,8 @@ alter table rel_projeto_recurso
     
     /* Inserts e selects para testes */
 insert into recurso(cpf, nome_recurso) values('44265623820', 'Marcos');
-insert into tarefa(nome_tarefa) values('Insert Banco');
-insert into projeto(nome_projeto) values('Abacachassa');
+insert into tarefa(nome_tarefa) values('Insert Banco', '23/05/2020');
+insert into projeto(nome_projeto) values('Abacachassa', '28/05/2021');
 
 insert into rel_tarefa_recurso(nome_tarefa, cpf_recurso) select nome_tarefa, cpf from tarefa, recurso;
 insert into rel_projeto_recurso(nome_projeto, cpf_recurso) select nome_projeto, cpf from projeto, recurso;
